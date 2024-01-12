@@ -35,3 +35,16 @@ Esta es una aplicación Flutter simple que consta de una página principal y dos
 ## Dependencias
 - Flutter SDK
 
+## Capturas de Pantalla
+
+### Pagina Principal
+![Pagina Principal](images/imagen1.png)
+
+### Pantalla A
+![Pantalla A](images/imagen2.png)
+
+### Pantalla B
+![Pantalla B](images/imagen3.png)
+
+
+
